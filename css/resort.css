@@ -1,0 +1,51 @@
+h1{
+  font-family: 'Permanent Marker', cursive;
+  color:orange;
+  font-weight: 500px;
+  padding-left: 350px;
+  padding-top: 200px;
+}
+#top{
+  display:flex;
+  flex-wrap: wrap;
+}
+#top p{
+  color: brown;
+}
+#top a{
+  font-family: 'Indie Flower', cursive;
+  font-weight: bolder;
+  margin-top:30px;
+  margin-left: 40px;
+  text-decoration: none;
+  color: orange;
+
+}
+h3{
+  margin-top: -25px;
+  color: brown;
+  flex-wrap: wrap;
+}
+div{
+  background-color: #95CADB
+  padding-top: 10px;
+
+}
+body{
+background-image: url("/home/emmanuel/Desktop/moringa-school-projects/resort-webpage/pics/image 1.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.right{
+  align-items: right;
+}
+span{
+  font-family: 'Great Vibes', cursive;
+}
+li{
+  padding: 5px 5px;
+  margin: 10px;
+  border: 1px;
+  font-size: 40px;
+
+}
